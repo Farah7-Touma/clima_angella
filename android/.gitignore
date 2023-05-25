@@ -1,4 +1,4 @@
-gradle-wrapper.jar
+git push -f origin mastergradle-wrapper.jar
 /.gradle
 /captures/
 /gradlew

@@ -1,16 +1,20 @@
-# clima_13_angella
+##destini_challenge_angella
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+- Course : The Complete Flutter Development Bootcamp with Dart / Angella / Udemy
+- Idea : An app ##destini_challenge_angella
 
-A few resources to get you started if this is your first Flutter project:
+A new Flutter project.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Getting Started
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Course : The Complete Flutter Development Bootcamp with Dart / Angella / Udemy
+- Idea : An weather app helps ypi to find out the live weather data in the current location of the device as well as the weather for any city you can think of!
+- What I've learned :
+  1 - Understand async and await
+  2 - What APIs are and how to use them to get data from the internet
+  3 - How to pass data forwards and backwards between screens using the Navigator
+

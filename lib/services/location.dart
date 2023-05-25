@@ -4,7 +4,7 @@ import 'package:google_maps_flutter/google_maps_flutter.dart';
 class Location{
   double? longitude;
   double? latitude;
-   Position position;
+   late Position position;
 
   CameraPosition? _kGooglePlex;
   Future<void> getCurrentPosition() async {
